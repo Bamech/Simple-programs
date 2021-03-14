@@ -1,0 +1,5 @@
+C:\Users\Dom\Desktop\C# Projekty\AddDotToCharacter\AddDotToCharacter\AddDotToCharacter\obj\Debug\AddDotToCharacter.csprojResolveAssemblyReference.cache
+C:\Users\Dom\Desktop\C# Projekty\AddDotToCharacter\AddDotToCharacter\AddDotToCharacter\bin\Debug\AddDotToCharacter.exe
+C:\Users\Dom\Desktop\C# Projekty\AddDotToCharacter\AddDotToCharacter\AddDotToCharacter\bin\Debug\AddDotToCharacter.pdb
+C:\Users\Dom\Desktop\C# Projekty\AddDotToCharacter\AddDotToCharacter\AddDotToCharacter\obj\Debug\AddDotToCharacter.exe
+C:\Users\Dom\Desktop\C# Projekty\AddDotToCharacter\AddDotToCharacter\AddDotToCharacter\obj\Debug\AddDotToCharacter.pdb
